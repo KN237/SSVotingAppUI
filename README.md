@@ -1,16 +1,21 @@
-# secret_story
 
-A new Flutter project.
 
-## Getting Started
+# SecretStoryAfriqueVoting
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img align="left" src="1.jpg" width="250" />
+<img align="left" src="2.jpg" width="250" />
+<img align="left" src="3.jpg" width="250" />
+<img align="left" src="4.jpg" width="250" />
+<img align="left" src="5.jpg" width="250" />
+<img align="left" src="6.jpg" width="250" />
+<img align="left" src="7.jpg" width="250" />
+<img align="left" src="8.jpg" width="250" />
+<img align="left" src="9.jpg" width="250" />
+<img align="left" src="10.jpg" width="250" />
+<img align="left" src="11.jpg" width="250" />
+<img align="left" src="12.jpg" width="250" />
+<img align="left" src="13.jpg" width="250" />
+<img  src="14.jpg" width="250"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

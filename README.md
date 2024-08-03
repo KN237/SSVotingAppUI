@@ -1,6 +1,6 @@
 
 
-# SecretStoryAfriqueVoting
+# SSAVoting
 
 
 
